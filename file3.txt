@@ -1,2 +1,3 @@
 file3
-
+Stashed change1
+forgotten change1
